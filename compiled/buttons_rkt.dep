@@ -1,0 +1,1 @@
+("7.3" racket ("1a583ea9c903b0d9d002b85fd32c53c0dbc4521b" . "a662248299151d0a3545f0f61be7c3bc3fe3c034") (collects #"br" #"main.rkt") (collects #"racket" #"draw.rkt") (collects #"racket" #"runtime-config.rkt"))

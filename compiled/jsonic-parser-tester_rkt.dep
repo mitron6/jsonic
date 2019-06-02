@@ -1,0 +1,1 @@
+("7.3" racket ("b2b62bc6cd58cb89ecf02ced3878bd07a1296e88" . "f4f004888a8c4d9086dbace80aa8ceb2aef324f4") (collects #"br" #"main.rkt") (collects #"brag" #"support.rkt") (collects #"jsonic" #"parser.rkt") (collects #"jsonic" #"tokenizer.rkt") (collects #"racket" #"runtime-config.rkt"))
